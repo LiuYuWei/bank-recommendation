@@ -10,7 +10,7 @@ from sklearn.linear_model import LogisticRegression
 
 class ModelTraining:
     def __init__(self):
-        experiment_name = 'bank recommendation'
+        experiment_name = 'credit-card-recommendation'
         self.client = mlflow.tracking.MlflowClient()
         mlflow.set_experiment(experiment_name)
         mlflow.sklearn.autolog()
