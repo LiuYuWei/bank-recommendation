@@ -82,7 +82,7 @@ class ModelTraining:
         print("Logistic Regression :", score)
 
     def model_registry(self, model_path, model_run_id):
-        registry_name = "bank-recommendation"
+        registry_name = "credit-card-recommendation"
         try:
             self.client.create_registered_model(registry_name)
         except Exception:
