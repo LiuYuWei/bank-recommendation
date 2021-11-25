@@ -1,6 +1,6 @@
 # Credit card recommendation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simon3458/bank-recommendation/blob/main/notebook/primehub_sdk_bank_recommendation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LiuYuWei/bank-recommendation/blob/main/notebook/primehub_sdk_bank_recommendation.ipynb)
 
 ## Prerequisites
 
